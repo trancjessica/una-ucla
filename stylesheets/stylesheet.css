@@ -117,7 +117,7 @@ body.dialog-open { overflow: hidden; }
    left: -10px;
    width: 130px;
    height: 130px;
-   background-image: url("/resources/images/seal150_norm.png");
+   background-image: url(http://i.imgur.com/vpIZRDv.png?1);
    background-size: cover;
    z-index: 5;
    -webkit-transition: opacity 0.25s;
