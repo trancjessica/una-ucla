@@ -11,8 +11,9 @@
 }
 
 .jumbotron {
+  position: right;
   background-image:url('http://img3.wikia.nocookie.net/__cb20141002175403/godzilla/images/e/ef/U.N._Logo.jpg');
-  height: 200px;
+  height: 300px;
   background-repeat: no-repeat;
   background-size: cover;
 }
