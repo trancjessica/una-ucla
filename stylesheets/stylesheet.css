@@ -12,3 +12,8 @@
     height: 500px;
     background-image: url('http://i.imgur.com/vpIZRDv.png?1');
 }
+.jumbotron h1{
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+}
