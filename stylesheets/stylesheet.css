@@ -1,34 +1,12 @@
- .nav a {
-    color: #5a5a5a;
-    font-size: 11px;
-    font-weight: bold;
-    padding-bottom: 14px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 14px;
-    text-transform: uppercase;
+@font-face {
+  font-family: 'Shift';
+  font-style: normal;
+  font-weight: normal;
+  src: url("http://s3.amazonaws.com/codecademy-content/courses/ltp/fonts/shift.woff") format("woff");
 }
-.jumbotron {
-    height: 500px;
-    background-image: url('http://33.media.tumblr.com/0a9600a299cf10703f666af564058de4/tumblr_neliztZHSj1sikk5ro1_500.png');
-}
-.jumbotron h1{
-    color: #fff;
-    font-size: 48px;
-    font-weight: bold;
-}
-.jumbotron p{
-    color: #fff;
-    font-size: 20px;
-}
-.learn-more {
-    background-color: #f7f7f7;
-}
-.learn-more h3{
-    font-family:'Shift', sans-serif;
-    font-size: 18px;
-    font-weight: bold;
-}
-.learn-more a{
-    color: #00b0ff;
+@font-face {
+  font-family: 'Shift';
+  font-style: normal;
+  font-weight: bold;
+  src: url("http://s3.amazonaws.com/codecademy-content/courses/ltp/fonts/shift-bold.woff") format("woff");
 }
