@@ -60,9 +60,7 @@
 }
 .about_the_club{
     background-color: #efefef;
-    border-bottom: 1px;
-    border-bottom: solid;
-    border-bottom-color: #dbdbdb;
+     border-bottom: 1px solid #dbdbdb;
 }
 .about_the_club h2{
     color: #393c3d;
