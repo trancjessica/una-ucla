@@ -12,7 +12,7 @@
 
 .jumbotron {
   background-image:url('http://img3.wikia.nocookie.net/__cb20141002175403/godzilla/images/e/ef/U.N._Logo.jpg');
-  height: 500px;
+  height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -23,7 +23,7 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
+  color: black;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -31,7 +31,7 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #fff;
+  color: black;
 }
 
 .learn-more {
