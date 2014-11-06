@@ -4,8 +4,8 @@
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
-   margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .nav li {
@@ -57,4 +57,18 @@
 
 .learn-more a {
   color: #00b0ff;
+}
+.about_the_club{
+    background-color: #efefef;
+    border-bottom: 1px;
+    border-bottom: solid;
+    border-bottom-color: #dbdbdb;
+}
+.about_the_club h2{
+    color: #393c3d;
+    font-size:24px;
+}
+.about_the_club{
+    font-size: 15px;
+    margin-bottom: 13px;
 }
