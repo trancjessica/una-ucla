@@ -11,9 +11,8 @@
 }
 
 .jumbotron {
-  position: right;
-  background-image:url('http://img3.wikia.nocookie.net/__cb20141002175403/godzilla/images/e/ef/U.N._Logo.jpg');
-  height: 300px;
+  background-image:url('http://goo.gl/04j7Nn');
+  height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -21,11 +20,10 @@
 .jumbotron .container {
   position: relative;
   top:100px;
-  color:#00b0ff ;
 }
 
 .jumbotron h1 {
-  color: black;
+  color: #fff;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -33,7 +31,7 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: black;
+  color: #fff;
 }
 
 .learn-more {
