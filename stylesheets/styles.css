@@ -10,6 +10,10 @@
 
 .nav li {
   display: inline;
+  
+}
+.row p{
+  font-family: 'Varela', sans-serif;
 }
 
 .jumbotron {
@@ -19,6 +23,8 @@
   background-size: cover;
   text-align:center;
   font-family: 'Varela', sans-serif;
+  font-size: 14px
+  font-color: black;
 }
 
 .jumbotron .container {
