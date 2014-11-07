@@ -110,6 +110,7 @@
 .about_the_club p{
   color: black;
   display: block;
+  top: 50px;
 }
 a:hover {
   color:#3385D6 ;
