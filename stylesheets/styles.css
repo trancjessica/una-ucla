@@ -76,14 +76,7 @@
   margin-right: auto;
   padding-top: 100px;
 }
-.jumbotron h3{
-  float:left;
-}
-.jumbotron p {
-  font-size: 15px;
-  color: #fff;
-  float: left;
-}
+
 
 .learn-more {
   background-color: #f7f7f7;
@@ -103,7 +96,7 @@
      border-bottom: 1px solid #dbdbdb;
 }
 .about_the_club h2{
-    color: #393c3d;
+    color: #3399FF;
     font-size:24px;
 }
 .about_the_club{
@@ -114,11 +107,12 @@
     margin:0px;
     padding:0px;
     border:none;
-
-
+}
+.about_the_club p{
+  color: black;
 }
 a:hover {
-  color:#00b0ff ;
+  color:#3399FF ;
 text-decoration: none ;
 }
 a:link {
