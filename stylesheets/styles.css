@@ -62,7 +62,7 @@
 
 
 .jumbotron .container {
-  position: relative;
+  float: right;
   /*top:100px;*/
   color: #3399FF;
 }
