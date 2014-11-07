@@ -17,7 +17,7 @@
 }
 
 .jumbotron {
-  /*background-image:url('http://cdn.theatlantic.com/static/mt/assets/science/UnitedNationsBanner-Post.jpg');*/
+  background-image:url('http://raisingcaliforniatogether.org/wp-content/uploads/2013/10/roycelarge.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -25,6 +25,13 @@
   font-family: 'Varela', sans-serif;
   font-size: 14px
   font-color: black;
+}
+.jumbotron small{
+  font-family: 'Varela', sans-serif;
+  font-size: 10px
+  font-color: black;
+  position: right;
+  
 }
 
 .jumbotron .container {
