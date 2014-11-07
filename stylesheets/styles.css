@@ -11,7 +11,7 @@
   float: left;
   width: 200px;
   display: inline-block;
-  border: 0;
+  border: 0px;
 }
 .nav h1{
   color: black;
@@ -99,6 +99,6 @@
     margin-bottom: 1px;
 }
 .about_the_club img{
-    border: 0;
+    border: 0px;
 
 }
