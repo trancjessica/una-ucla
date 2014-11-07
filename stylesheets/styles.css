@@ -19,14 +19,15 @@
 .jumbotron {
   background-image:url('http://raisingcaliforniatogether.org/wp-content/uploads/2013/10/roycelarge.jpg');
   height: 500px;
-  width: 800px;
+  width: 900px;
   background-repeat: no-repeat;
   background-size: cover;
   text-align:center;
   font-family: 'Varela', sans-serif;
   font-size: 14px
   font-color: black;
-  position: relative;
+  margin-left: auto;
+  margin-right: auto;
 }
 .jumbotron small{
   font-family: 'Varela', sans-serif;
