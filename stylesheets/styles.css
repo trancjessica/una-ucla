@@ -33,7 +33,7 @@
   font-family: 'Varela', sans-serif;
   font-size: 10px
   font-color: black;
-  position: right;
+  osition: absolute; right: 10px; bottom: 10px; 
   
 }
 
