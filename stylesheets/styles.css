@@ -54,6 +54,8 @@
   font-size: 48px;  
   font-family: 'Varela', sans-serif;
   font-weight: bold;
+    margin-left: auto;
+  margin-right: auto;
 }
 
 .jumbotron p {
