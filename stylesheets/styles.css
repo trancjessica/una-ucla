@@ -21,6 +21,9 @@
   margin-right: auto;
  
 }
+.nav h1, img, a{
+  display: inline;
+}
 .nav {
   background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/UN_emblem_blue.svg/2000px-UN_emblem_blue.svg.png') left no-repeat transparent;
   padding-left: 200px;
