@@ -17,7 +17,7 @@
 }
 
 .jumbotron {
-  background-image:url('http://raisingcaliforniatogether.org/wp-content/uploads/2013/10/roycelarge.jpg');
+  background-image:url('http://www.williamholdings.com/722manhattan/gallery/album1/large/ucla.jpg');
   height: 500px;
   width: 900px;
   background-repeat: no-repeat;
@@ -29,13 +29,7 @@
   margin-left: auto;
   margin-right: auto;
 }
-.jumbotron small{
-  font-family: 'Varela', sans-serif;
-  font-size: 10px
-  font-color: black;
-  position: absolute; right: 5px; bottom: 110px; 
-  
-}
+
 
 .jumbotron .container {
   position: relative;
