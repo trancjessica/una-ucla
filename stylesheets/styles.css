@@ -9,12 +9,14 @@
 }
 .nav img{
   float: left;
+  width: 200px;
 }
 .nav h1{
   color: black;
   font-size: 35px;
   font-weight: bold;
-  float: right;
+  float: left;
+  width: 200px;
  
 }
 
