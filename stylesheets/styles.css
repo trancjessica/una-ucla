@@ -27,6 +27,9 @@
   margin-right: auto;
  
 }
+.nav {
+  background-color: #f7f7f7;
+}
 
 /*.nav {
   background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/UN_emblem_blue.svg/2000px-UN_emblem_blue.svg.png');
