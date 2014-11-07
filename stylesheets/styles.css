@@ -75,10 +75,13 @@
   margin-right: auto;
   padding-top: 100px;
 }
-
+.jumbotron h3{
+  float:left;
+}
 .jumbotron p {
   font-size: 15px;
   color: #fff;
+  float: left;
 }
 
 .learn-more {
