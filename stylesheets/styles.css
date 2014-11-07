@@ -113,6 +113,9 @@
   display: block;
   top: 200px;
 }
+.about_the_club row{
+  display: inline;
+}
 a:hover {
   color:#3385D6 ;
 text-decoration: none ;
