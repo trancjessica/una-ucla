@@ -87,14 +87,14 @@
 }
 
 .learn-more a {
-  color: #00b0ff;
+  color: #3385D6;
 }
 .about_the_club{
     background-color: white;
      border-bottom: 1px solid #dbdbdb;
 }
 .about_the_club h2{
-    color: #3399FF;
+    color: #3385D6;
     font-size:24px;
 }
 .about_the_club{
@@ -110,7 +110,7 @@
   color: black;
 }
 a:hover {
-  color:#3399FF ;
+  color:#3385D6 ;
 text-decoration: none ;
 }
 a:link {
