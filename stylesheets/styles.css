@@ -21,15 +21,13 @@
   margin-right: auto;
  
 }
-.nav h1, img, li{
-  display: inline;
-}
-.nav {
+
+/*.nav {
   background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/UN_emblem_blue.svg/2000px-UN_emblem_blue.svg.png');
   padding-right: 200px;
   background-repeat: no-repeat;
   width: 400px;
-}
+}*/
 
 .nav li {
   display: inline;
