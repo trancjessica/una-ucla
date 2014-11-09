@@ -116,6 +116,13 @@
 .about_the_club row{
   display: inline;
 }
+.about_the_club unya_poverty{
+  display: inline;
+}
+.about_the_club unya_secretary{
+  display: inline;
+}
+
 a:hover {
   color:#3385D6 ;
 text-decoration: none ;
@@ -125,4 +132,8 @@ text-decoration: none;
 }
 a:visited {
 text-decoration: none;
+}
+
+.img-circle{
+  border-radius: 50%;
 }
