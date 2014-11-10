@@ -142,4 +142,6 @@ text-decoration: none;
 }
 .bar h2{
   background-color: gray;
+  margin-left: auto;
+  margin-right: auto;
 }
