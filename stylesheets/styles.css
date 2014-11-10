@@ -140,3 +140,6 @@ text-decoration: none;
 .img-circle{
   border-radius: 50%;
 }
+.bar h2{
+  background-color: gray;
+}
